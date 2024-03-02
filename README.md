@@ -65,14 +65,14 @@ Let's change the ticket from 'normal' to 'emergency' because it will impact the 
 <br />
 
 <p>
-As this is a high priority, business impacting problem, we will assign the ticket to the queue manager or the escalation engineer</p>
+Since this is a high priority, business impacting problem, we will assign the ticket to the queue manager or the escalation engineer.</p>
 <p>
 <img src="https://i.imgur.com/o6Ldl4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We want to make sure the SLA is set that matched the severity of the problem.</p>
+We want to make sure the SLA is set to match the severity of the problem.</p>
 <p>
 <img src="https://i.imgur.com/V9n9uEC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
