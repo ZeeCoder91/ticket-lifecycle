@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-On support ticket homepage click on new ticket</p>
+On the support ticket homepage click on new ticket</p>
 <p>
 <img src="https://i.imgur.com/XWdaiLE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -44,10 +44,10 @@ Client will fill in necessary information for the ticket.</p>
 <br />
 
 <p>
+Make sure to login in as a help desk professional in order to troubleshoot and solve the helpdesk tickets.</p>
+<p>
 <img src="https://i.imgur.com/4HStSEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Make sure to login in as a help desk profession in order to troubleshoot and solve the helpdesk tickets.</p>
 <br />
 
 <p>
