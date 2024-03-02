@@ -114,18 +114,16 @@ After a solution has been reached, we can follow up with the client and close th
 <br />
 
 <p>
-<img src="https://i.imgur.com/5ErKeoe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+As we see our ticket is no longer in the open ticket bucket.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/5ErKeoe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/cfCP9br.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+We can now find our resolved ticket in the closed ticket bucket. </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/cfCP9br.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
