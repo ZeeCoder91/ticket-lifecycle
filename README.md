@@ -44,25 +44,23 @@ Client will fill in necessary information for the ticket.</p>
 <br />
 
 <p>
-Make sure to login in as a help desk professional in order to troubleshoot and solve the helpdesk tickets.</p>
+Make sure to login in as a help desk professional in order to troubleshoot and solve the helpdesk tickets. We can see that all the tickets are defaulted to normal and there is no clear priority. Notice how the tickets are assigned to a helpdesk agent, usually a queue manager or a helpdesk lead will go through all of the tickets and assign them appropriately.  It could be the job of the  </p>
 <p>
 <img src="https://i.imgur.com/4HStSEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/2d07sCq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Taking the role of helpdesk lead, let's go through the ticket: In the ticket thread we read, "Customers are reporting they are getting a 404 error when trying to browse to online banking". This is a high priority ticket because it is a business impacting problem. It's not good that the entire online banking system is down.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/2d07sCq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/bTiw8Ik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Let's change the ticket from 'normal' to 'emergency' because it will impact the organization.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/bTiw8Ik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
