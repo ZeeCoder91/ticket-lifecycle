@@ -82,8 +82,7 @@ We want to make sure the SLA is set to match the severity of the problem.</p>
 <img src="https://i.imgur.com/n2sEnvh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+It's quite likely that the Support Department wouldn't be authorized to troubleshoot this ticket because it appears to be a system problem, so we'd assign this ticket to the System Administrators Department</p>
 <br />
 
 <p>
