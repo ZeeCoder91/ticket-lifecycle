@@ -44,7 +44,7 @@ Client will fill in necessary information for the ticket.</p>
 <br />
 
 <p>
-Make sure to login in as a help desk professional in order to troubleshoot and solve the helpdesk tickets. We can see that all the tickets are defaulted to normal and there is no clear priority. Notice how the tickets are assigned to a helpdesk agent, usually a queue manager or a helpdesk lead will go through all of the tickets and assign them appropriately.  It could be the job of the  </p>
+Make sure to login in as a help desk professional in order to troubleshoot and solve the helpdesk tickets. We can see that all the tickets are defaulted to normal and there is no clear priority. Notice how the tickets are assigned to a helpdesk agent, usually a queue manager or a helpdesk lead will go through all of the tickets and assign them appropriately.</p>
 <p>
 <img src="https://i.imgur.com/4HStSEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -65,18 +65,16 @@ Let's change the ticket from 'normal' to 'emergency' because it will impact the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/o6Ldl4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+As this is a high priority, business impacting problem, we will assign the ticket to the queue manager or the escalation engineer</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/o6Ldl4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/V9n9uEC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+We want to make sure the SLA is set that matched the severity of the problem.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/V9n9uEC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
