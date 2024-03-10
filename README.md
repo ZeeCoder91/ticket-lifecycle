@@ -30,103 +30,120 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-On the support ticket homepage click on new ticket</p>
+To create a ticket in osTicket, navigate to the support ticket homepage and select 'Open a New Ticket'.</p>
 <p>
 <img src="https://i.imgur.com/XWdaiLE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Client will fill in necessary information for the ticket.</p>
+The client should enter all required details for the ticket.</p>
 <p>
 <img src="https://i.imgur.com/Wma5I0q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Make sure to login in as a help desk professional in order to troubleshoot and solve the helpdesk tickets. We can see that all the tickets are defaulted to normal and there is no clear priority. Notice how the tickets are assigned to a helpdesk agent, usually a queue manager or a helpdesk lead will go through all of the tickets and assign them appropriately.</p>
+Log in as a help desk professional to address and resolve tickets. Initially, tickets default to a 'normal' priority without clear distinction. A queue manager or helpdesk lead typically reviews and assigns these tickets to the appropriate agent for resolution.</p>
 <p>
 <img src="https://i.imgur.com/4HStSEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Taking the role of helpdesk lead, let's go through the ticket: In the ticket thread we read, "Customers are reporting they are getting a 404 error when trying to browse to online banking". This is a high priority ticket because it is a business impacting problem. It's not good that the entire online banking system is down.</p>
+As a helpdesk lead, assess the ticket detailing customer reports of a 404 error when accessing online banking. Given the business impact of an inaccessible online banking system, categorize this as a high-priority issue requiring immediate attention.</p>
 <p>
 <img src="https://i.imgur.com/2d07sCq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Let's change the ticket from 'normal' to 'emergency' because it will impact the organization.</p>
+Update the ticket status from 'normal' to 'emergency' to reflect the significant impact on the organization.</p>
 <p>
 <img src="https://i.imgur.com/bTiw8Ik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Since this is a high priority, business impacting problem, we will assign the ticket to the queue manager or the escalation engineer.</p>
+Due to its high priority and business impact, assign this ticket to either the queue manager or the escalation engineer for immediate attention.</p>
 <p>
 <img src="https://i.imgur.com/o6Ldl4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We want to make sure the SLA is set to match the severity of the problem.</p>
+Ensure the SLA is appropriately set to reflect the ticket's urgency.</p>
 <p>
 <img src="https://i.imgur.com/V9n9uEC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-It's quite likely that the Support Department wouldn't be authorized to troubleshoot this ticket because it appears to be a system problem, so we'd assign this ticket to the System Administrators Department.</p>
+Given the technical nature of the issue, assign this ticket to the System Administrators Department for expert resolution.</p>
 <p>
 <img src="https://i.imgur.com/n2sEnvh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-As we see there is a history of all the actions made on this ticket.</p>
+Take a look at the detailed record showing everything that's been done on this ticket.</p>
 <p>
 <img src="https://i.imgur.com/3ckHB26.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-There is a response and internal note field to record solutions, follow ups and additional notes on the ticket.</p>
+The ticket includes areas for replies and internal notes, allowing you to document solutions, follow-up actions, and any other relevant information.</p>
 <p>
 <img src="https://i.imgur.com/NfzgqYG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We can see some of the changes we implemented on the ticket from the agent panel.</p>
+We can view the updates we've made to the ticket from the agent's dashboard.</p>
 <p>
 <img src="https://i.imgur.com/1GQGW2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-After a solution has been reached, we can follow up with the client and close the ticket.</p>
+Once a resolution is found, we can update the client and mark the ticket as closed.</p>
 <p>
 <img src="https://i.imgur.com/R21CYeo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-As we see our ticket is no longer in the open ticket bucket.</p>
+Our ticket has now moved out of the open ticket queue.</p>
 <p>
 <img src="https://i.imgur.com/5ErKeoe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We can now find our resolved ticket in the closed ticket bucket. </p>
+Our resolved ticket is now located in the closed ticket section.</p>
 <p>
 <img src="https://i.imgur.com/cfCP9br.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triage Tips for Help Requests</title>
+</head>
+<body>
+    <h1>Effective Triage Tips for Managing Help Requests</h1>
+    <p>To wrap up, here are some simple steps to sort through help requests quickly and keep everyone happy:</p>
+    <ol>
+        <li><strong>Figure Out What's Urgent:</strong> Decide which requests need immediate attention due to their importance or wide impact.</li>
+        <li><strong>Organize Requests:</strong> Group requests into categories for easier tracking and assignment.</li>
+        <li><strong>Use Automatic Sorting If Possible:</strong> Leverage technology to automatically direct requests to the appropriate responder.</li>
+        <li><strong>Stay in Touch:</strong> Update requesters on the status of their requests and estimated completion times.</li>
+        <li><strong>Keep Improving:</strong> Continuously seek ways to streamline the process and address bottlenecks.</li>
+    </ol>
+    <p>Effective triage is essential for efficient helpdesk operation. It ensures quick resolution of critical issues and sets clear expectations. This concludes our guide, equipping you with strategies to expertly manage help requests.</p>
+</body>
 <p>
 <img src="https://i.imgur.com/UDawVdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
