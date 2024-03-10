@@ -127,11 +127,6 @@ Our resolved ticket is now located in the closed ticket section.</p>
 </p>
 <br />
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Triage Tips for Help Requests</title>
-</head>
 <body>
     <h1>Effective Triage Tips for Managing Help Requests</h1>
     <p>To wrap up, here are some simple steps to sort through help requests quickly and keep everyone happy:</p>
