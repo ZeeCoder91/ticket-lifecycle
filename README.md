@@ -139,7 +139,3 @@ Our resolved ticket is now located in the closed ticket section.</p>
     </ol>
     <p>Effective triage is essential for efficient helpdesk operation. It ensures quick resolution of critical issues and sets clear expectations. This concludes our guide, equipping you with strategies to expertly manage help requests.</p>
 </body>
-<p>
-<img src="https://i.imgur.com/UDawVdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
